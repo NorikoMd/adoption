@@ -1,0 +1,6 @@
+{
+  "name": "Pet Adoption Harbor",
+  "description": "Find your perfect furry companion for adoption! Explore lovable dogs and cats ready for a warm home with complete profiles, health stats, temperament tags, and interactive galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
